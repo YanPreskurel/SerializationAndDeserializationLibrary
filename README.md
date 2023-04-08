@@ -1,4 +1,4 @@
-# Serialization/deserialization_Library
+# Serialization and deserialization library
 
 Student Preskurel Yan Yurievich \
 Group number 153504 
